@@ -1,0 +1,11 @@
+release/celldelegate.o
+release/commands.o
+release/formulaengine.o
+release/main.o
+release/mainwindow.o
+release/spreadsheetmodel.o
+release/toolbarManger.o
+release/moc_celldelegate.o
+release/moc_mainwindow.o
+release/moc_spreadsheetmodel.o
+release/moc_toolbarManger.o

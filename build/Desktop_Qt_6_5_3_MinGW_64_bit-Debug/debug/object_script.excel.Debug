@@ -1,0 +1,11 @@
+debug/celldelegate.o
+debug/commands.o
+debug/formulaengine.o
+debug/main.o
+debug/mainwindow.o
+debug/spreadsheetmodel.o
+debug/toolbarManger.o
+debug/moc_celldelegate.o
+debug/moc_mainwindow.o
+debug/moc_spreadsheetmodel.o
+debug/moc_toolbarManger.o
